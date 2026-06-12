@@ -25,3 +25,8 @@ This implementation uses a current mirror to combine PTAT and CTAT currents. The
 
 ## 2. BGR with Op-Amp
 This design incorporates an operational amplifier (op-amp) to achieve higher precision. The op-amp enforces proper feedback in the circuit, ensuring accurate voltage levels and improved stability by minimizing mismatches. The op-amp ensures equal voltages across the PTAT and CTAT branches, allowing for precise addition of the temperature-dependent components.
+
+![BGR](Schematics/5_opamp.png)
+![BGR](Images/6.png)
+
+
