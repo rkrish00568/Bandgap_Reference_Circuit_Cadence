@@ -14,3 +14,5 @@ By combining the PTAT and CTAT components in appropriate proportions, the temper
 
 ***Note**: We cannot just add any PTAT with any CTAT to get a constant reference voltage, because they both need to cancel out each other completely in order to give a constant voltage.*
 
+## 1. BGR with Current Mirror
+This implementation uses a current mirror to combine PTAT and CTAT currents. The currents are mirrored and converted into voltages, which are then summed to generate the stable reference voltage. This approach is relatively simple and compact but may require precise current scaling to ensure accurate cancellation of temperature variations.
