@@ -19,4 +19,4 @@ This implementation uses a current mirror to combine PTAT and CTAT currents. The
 ![BGR](Schematics/0.png)
 ![BGR](Images/00.png)
 ![BGR](Schematics/1.png)
-![BGR](Images/2.png)
+![BGR](Images/3.png)
